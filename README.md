@@ -1,4 +1,4 @@
-# soccer-prediction
+# Soccer Prediction
 This repository contains a Streamlit-based web application for predicting match outcomes in the English Premier League. The app uses a combination of Poisson regression and neural networks to estimate expected goals and match probabilities. Key features include:
 
 Dynamic User Interface: Select home and away teams to get real-time predictions.
