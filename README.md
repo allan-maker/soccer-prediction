@@ -2,14 +2,14 @@
 This repository contains a Streamlit-based web application for predicting match outcomes in the English Premier League. The app uses a combination of Poisson regression and neural networks to estimate expected goals and match probabilities. 
 
 # Table of Contents
-1. Overview (#Overview)
-2. How It Works (#how_it_works)
-3. Features (#Features)
-4. Installation (#Installation)
-5. Usage (#Usage)
-6. Technologies Used (#Technologies)
-7. Contributing (#Contributing)
-8. License (#License)
+1. [Overview](#Overview)
+2. [How It Works](#how_it_works)
+3. [Features](#Features)
+4. [Installation](#Installation)
+5. [Usage](#Usage)
+6. [Technologies Used](#Technologies)
+7. [Contributing](#Contributing)
+8. [License](#License)
 
 
 Key features include:
