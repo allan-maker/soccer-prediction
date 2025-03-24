@@ -59,7 +59,7 @@ The Premier League Match Predictor is a data-driven application that predicts th
 - Expected goals for both teams.
 - Probabilities of a home win, away win, or draw.
 
-# Technologies Used
+# Technologies
 - Python: Primary programming language.
 - Pandas: Data manipulation and analysis.
 - NumPy: Numerical computations.
