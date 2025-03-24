@@ -14,7 +14,7 @@ This repository contains a Streamlit-based web application for predicting match 
 # Overview
 The Premier League Match Predictor is a data-driven application that predicts the expected goals and match outcomes for any two teams in the English Premier League. It uses historical match data to train a Poisson regression model and a neural network, combining their predictions to provide results (which might not be always accurate).
 
-# How It Works
+#how_it_works
 1. Data Collection and Preprocessing:
 - The app reads multiple CSV files containing historical match data.
 - It cleans and preprocesses the data, handling missing values and standardizing column names.
